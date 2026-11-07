@@ -1,0 +1,47 @@
+{
+  "name": "UpperDeck",
+  "identifier": "io.github.okaraah.upperdeck.source",
+  "subtitle": "One Piece TCG tournament tracker",
+  "description": "Install and update UpperDeck with SideStore or AltStore.",
+  "iconURL": "https://raw.githubusercontent.com/okaraah/upperdeck-sidestore/main/icon.png",
+  "website": "https://github.com/okaraah/upperdeck-sidestore",
+  "tintColor": "#6A3FD8",
+  "featuredApps": ["doodoo.UpperDeck"],
+  "apps": [
+    {
+      "name": "UpperDeck",
+      "bundleIdentifier": "doodoo.UpperDeck",
+      "developerName": "Oguz K",
+      "subtitle": "Every round, on one pass.",
+      "localizedDescription": "Track your own and your friends' One Piece TCG tournament results. Log every round in a tap, build decks from the full card list, share passes and play group tournaments.",
+      "iconURL": "https://raw.githubusercontent.com/okaraah/upperdeck-sidestore/main/icon.png",
+      "tintColor": "#6A3FD8",
+      "category": "utilities",
+      "screenshots": [],
+      "version": "1.0",
+      "versionDate": "2026-11-08",
+      "versionDescription": "First build: all screens, real card data.",
+      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.0-1/UpperDeck.ipa",
+      "size": 5169858,
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-08",
+          "localizedDescription": "First build: all screens, real card data.",
+          "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.0-1/UpperDeck.ipa",
+          "size": 5169858,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scan Player Pass and tournament codes.",
+          "NSPhotoLibraryAddUsageDescription": "Save your passes to Photos."
+        }
+      }
+    }
+  ],
+  "news": []
+}
