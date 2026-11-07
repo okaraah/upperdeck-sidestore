@@ -19,7 +19,7 @@
       "category": "utilities",
       "screenshots": [],
       "version": "1.0",
-      "versionDate": "2026-11-08",
+      "versionDate": "2026-11-07T23:20:00Z",
       "versionDescription": "First build: all screens, real card data.",
       "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.0-1/UpperDeck.ipa",
       "size": 5169858,
@@ -27,7 +27,7 @@
         {
           "version": "1.0",
           "buildVersion": "1",
-          "date": "2026-11-08",
+          "date": "2026-11-07T23:20:00Z",
           "localizedDescription": "First build: all screens, real card data.",
           "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.0-1/UpperDeck.ipa",
           "size": 5169858,
