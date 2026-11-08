@@ -6,7 +6,9 @@
   "iconURL": "https://raw.githubusercontent.com/okaraah/upperdeck-sidestore/main/icon.png",
   "website": "https://github.com/okaraah/upperdeck-sidestore",
   "tintColor": "#6A3FD8",
-  "featuredApps": ["doodoo.UpperDeck"],
+  "featuredApps": [
+    "doodoo.UpperDeck"
+  ],
   "apps": [
     {
       "name": "UpperDeck",
@@ -18,12 +20,21 @@
       "tintColor": "#6A3FD8",
       "category": "utilities",
       "screenshots": [],
-      "version": "1.0",
-      "versionDate": "2026-11-07T23:20:00Z",
-      "versionDescription": "First build: all screens, real card data.",
-      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.0-1/UpperDeck.ipa",
-      "size": 5169858,
+      "version": "1.1",
+      "versionDate": "2026-11-08T22:22:45Z",
+      "versionDescription": "Sim data: Explore lists, leader pages, popular lists and matchup hints. Native Liquid Glass tab bar and controls. Promo card art and name fixes.",
+      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.1-2/UpperDeck.ipa",
+      "size": 5391012,
       "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-11-08T22:22:45Z",
+          "localizedDescription": "Sim data: Explore lists, leader pages, popular lists and matchup hints. Native Liquid Glass tab bar and controls. Promo card art and name fixes.",
+          "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.1-2/UpperDeck.ipa",
+          "size": 5391012,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.0",
           "buildVersion": "1",
