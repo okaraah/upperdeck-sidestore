@@ -21,11 +21,20 @@
       "category": "utilities",
       "screenshots": [],
       "version": "0.4",
-      "versionDate": "2026-11-11T18:46:44Z",
-      "versionDescription": "Online beta: Google and six-digit email sign-in; account-scoped offline sync and conflict review; real profiles, friends and deck copying; live shared tournaments with manual or Swiss pairings, host corrections and standings; real simulator statistics with laptop refresh. Apple sign-in and background push are coming later.",
-      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-5/UpperDeck.ipa",
-      "size": 6827790,
+      "versionDate": "2026-11-11T18:57:17Z",
+      "versionDescription": "Fixed Apple sign-in pill: centered content, proper padding and readable disabled text. Apple sign-in is marked Coming later.",
+      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-6/UpperDeck.ipa",
+      "size": 6828071,
       "versions": [
+        {
+          "version": "0.4",
+          "buildVersion": "6",
+          "date": "2026-11-11T18:57:17Z",
+          "localizedDescription": "Fixed Apple sign-in pill: centered content, proper padding and readable disabled text. Apple sign-in is marked Coming later.",
+          "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-6/UpperDeck.ipa",
+          "size": 6828071,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.4",
           "buildVersion": "5",
