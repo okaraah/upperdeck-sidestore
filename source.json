@@ -21,11 +21,20 @@
       "category": "utilities",
       "screenshots": [],
       "version": "0.4",
-      "versionDate": "2026-11-11T19:01:35Z",
-      "versionDescription": "Leader matchups now show only the 15 most-played leaders in the selected format, consistently across Overall, Going 1st and Going 2nd.",
-      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-7/UpperDeck.ipa",
-      "size": 6827388,
+      "versionDate": "2026-11-11T19:08:35Z",
+      "versionDescription": "Leader matchups show the 15 most-played leaders in each format. Settings shows the active Google or email login method, and Sign out is visible directly below the account card.",
+      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-8/UpperDeck.ipa",
+      "size": 6828012,
       "versions": [
+        {
+          "version": "0.4",
+          "buildVersion": "8",
+          "date": "2026-11-11T19:08:35Z",
+          "localizedDescription": "Leader matchups show the 15 most-played leaders in each format. Settings shows the active Google or email login method, and Sign out is visible directly below the account card.",
+          "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-8/UpperDeck.ipa",
+          "size": 6828012,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.4",
           "buildVersion": "7",
