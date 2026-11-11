@@ -20,12 +20,21 @@
       "tintColor": "#6A3FD8",
       "category": "utilities",
       "screenshots": [],
-      "version": "1.1",
-      "versionDate": "2026-11-08T22:22:45Z",
-      "versionDescription": "Sim data: Explore lists, leader pages, popular lists and matchup hints. Native Liquid Glass tab bar and controls. Promo card art and name fixes.",
-      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.1-2/UpperDeck.ipa",
-      "size": 5391012,
+      "version": "1.2",
+      "versionDate": "2026-11-11T01:17:29Z",
+      "versionDescription": "Screen and interaction improvements throughout UpperDeck:\n\n- More reliable Player Pass and leader-filter opening, improved button hit areas, and swipe-back navigation.\n- Round logging opens edit details directly, with animated winner selection and improved leader picking.\n- Consistent scrolling and stretchy image headers; long round histories stay within tournament tiles.\n- Deck cards support tap to add, hold to inspect with lift animation and haptics, and swipe left to remove a copy.\n- Fixed Add Cards dismissal crashes and made deck-limit messages visible above the keyboard.\n- Cleaner card inspection backgrounds with native, resisted scrolling even for short content.\n- Head-to-head artwork is centered per side; the animated divider reflects the score and stays within a 90/10 split.\n- Tournament sharing now uses Story format with an animated, content-sized pass and stable export controls.\n- Dark Story backgrounds, a smooth Transparent Background toggle, readable overlapping text, and both first/second turn labels.\n- PNG sharing and saving preserve transparency and rounded corners, including profile pass exports.",
+      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.2-3/UpperDeck.ipa",
+      "size": 5449867,
       "versions": [
+        {
+          "version": "1.2",
+          "buildVersion": "3",
+          "date": "2026-11-11T01:17:29Z",
+          "localizedDescription": "Screen and interaction improvements throughout UpperDeck:\n\n- More reliable Player Pass and leader-filter opening, improved button hit areas, and swipe-back navigation.\n- Round logging opens edit details directly, with animated winner selection and improved leader picking.\n- Consistent scrolling and stretchy image headers; long round histories stay within tournament tiles.\n- Deck cards support tap to add, hold to inspect with lift animation and haptics, and swipe left to remove a copy.\n- Fixed Add Cards dismissal crashes and made deck-limit messages visible above the keyboard.\n- Cleaner card inspection backgrounds with native, resisted scrolling even for short content.\n- Head-to-head artwork is centered per side; the animated divider reflects the score and stays within a 90/10 split.\n- Tournament sharing now uses Story format with an animated, content-sized pass and stable export controls.\n- Dark Story backgrounds, a smooth Transparent Background toggle, readable overlapping text, and both first/second turn labels.\n- PNG sharing and saving preserve transparency and rounded corners, including profile pass exports.",
+          "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v1.2-3/UpperDeck.ipa",
+          "size": 5449867,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "1.1",
           "buildVersion": "2",
