@@ -20,12 +20,21 @@
       "tintColor": "#6A3FD8",
       "category": "utilities",
       "screenshots": [],
-      "version": "0.3",
-      "versionDate": "2026-11-11T01:24:04Z",
-      "versionDescription": "Development release; online features remain mocked.\n\nScreen and interaction improvements throughout UpperDeck:\n\n- More reliable Player Pass and leader-filter opening, improved button hit areas, and swipe-back navigation.\n- Round logging opens edit details directly, with animated winner selection and improved leader picking.\n- Consistent scrolling and stretchy image headers; long round histories stay within tournament tiles.\n- Deck cards support tap to add, hold to inspect with lift animation and haptics, and swipe left to remove a copy.\n- Fixed Add Cards dismissal crashes and made deck-limit messages visible above the keyboard.\n- Cleaner card inspection backgrounds with native, resisted scrolling even for short content.\n- Head-to-head artwork is centered per side; the animated divider reflects the score and stays within a 90/10 split.\n- Tournament sharing now uses Story format with an animated, content-sized pass and stable export controls.\n- Dark Story backgrounds, a smooth Transparent Background toggle, readable overlapping text, and both first/second turn labels.\n- PNG sharing and saving preserve transparency and rounded corners, including profile pass exports.",
-      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.3-4/UpperDeck.ipa",
-      "size": 5449864,
+      "version": "0.4",
+      "versionDate": "2026-11-11T18:46:44Z",
+      "versionDescription": "Online beta: Google and six-digit email sign-in; account-scoped offline sync and conflict review; real profiles, friends and deck copying; live shared tournaments with manual or Swiss pairings, host corrections and standings; real simulator statistics with laptop refresh. Apple sign-in and background push are coming later.",
+      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-5/UpperDeck.ipa",
+      "size": 6827790,
       "versions": [
+        {
+          "version": "0.4",
+          "buildVersion": "5",
+          "date": "2026-11-11T18:46:44Z",
+          "localizedDescription": "Online beta: Google and six-digit email sign-in; account-scoped offline sync and conflict review; real profiles, friends and deck copying; live shared tournaments with manual or Swiss pairings, host corrections and standings; real simulator statistics with laptop refresh. Apple sign-in and background push are coming later.",
+          "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-5/UpperDeck.ipa",
+          "size": 6827790,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.3",
           "buildVersion": "4",
