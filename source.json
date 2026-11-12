@@ -21,11 +21,20 @@
       "category": "utilities",
       "screenshots": [],
       "version": "0.4",
-      "versionDate": "2026-11-11T19:08:35Z",
-      "versionDescription": "Leader matchups show the 15 most-played leaders in each format. Settings shows the active Google or email login method, and Sign out is visible directly below the account card.",
-      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-8/UpperDeck.ipa",
-      "size": 6828012,
+      "versionDate": "2026-11-12T00:10:40Z",
+      "versionDescription": "Tournament deck snapshots preserve the registered list after later edits or deletion, and saved lists can be copied into your decks. Explore loads ten lists at a time as you scroll. Includes improved Luffy cost-curve contrast, leader matchup artwork and labels, scanner spacing, the Add Friend empty state, and Sign out placement.",
+      "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-10/UpperDeck.ipa",
+      "size": 6854145,
       "versions": [
+        {
+          "version": "0.4",
+          "buildVersion": "10",
+          "date": "2026-11-12T00:10:40Z",
+          "localizedDescription": "Tournament deck snapshots preserve the registered list after later edits or deletion, and saved lists can be copied into your decks. Explore loads ten lists at a time as you scroll. Includes improved Luffy cost-curve contrast, leader matchup artwork and labels, scanner spacing, the Add Friend empty state, and Sign out placement.",
+          "downloadURL": "https://github.com/okaraah/upperdeck-sidestore/releases/download/v0.4-10/UpperDeck.ipa",
+          "size": 6854145,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.4",
           "buildVersion": "8",
